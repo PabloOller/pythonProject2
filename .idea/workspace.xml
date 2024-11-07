@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f07df194-67bd-4a37-8c5a-25c77bb09e69" name="Changes" comment="Capitulo 3 pyspark">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f07df194-67bd-4a37-8c5a-25c77bb09e69" name="Changes" comment="Capitulo 3 pyspark archivos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -77,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730969909231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Capitulo 3 pyspark archivos">
+      <option name="closed" value="true" />
+      <created>1730970634517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730970634517</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Capitulo 3 pyspark" />
-    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 3 pyspark" />
+    <MESSAGE value="Capitulo 3 pyspark archivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 3 pyspark archivos" />
   </component>
 </project>
