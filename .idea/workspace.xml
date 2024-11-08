@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f07df194-67bd-4a37-8c5a-25c77bb09e69" name="Changes" comment="Capitulo 3 pyspark archivos" />
+    <list default="true" id="f07df194-67bd-4a37-8c5a-25c77bb09e69" name="Changes" comment="Capitulo 3 pyspark archivos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PabloOller"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PabloOller&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PabloOller/pythonProject2.git",
-    "accountId": "1e6cea2e-b413-4f91-ad94-11a85802ff8f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PabloOller/pythonProject2.git&quot;,
+    &quot;accountId&quot;: &quot;1e6cea2e-b413-4f91-ad94-11a85802ff8f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ejerciciosp98.executor": "Run",
+    "Python.dataclass.executor": "Run",
     "Python.firecall.executor": "Run",
     "Python.prueba.executor": "Run",
     "Python.pureba2.executor": "Run",
